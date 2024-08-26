@@ -3,7 +3,7 @@ body{
     background-image: url(./assests/cool-background1.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size:cover
+    background-size:cover;
 }
 #meme-text{
     color:rgb(196, 224, 228);
